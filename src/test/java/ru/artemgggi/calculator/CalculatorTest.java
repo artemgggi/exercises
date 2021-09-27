@@ -23,6 +23,5 @@ public class CalculatorTest {
         double out = Calculator.rubleToDollar(in);
         float eps = 0.0001f;
         Assert.assertEquals(expected, out, eps);
-
     }
 }
