@@ -20,9 +20,7 @@ public class Calculator {
         double outDollar = Calculator.rubleToDollar(in);
         boolean passedDollar = expectedDollar == outDollar;
 
-
         System.out.println("140 rubles is Test result : " + passedEuro);
         System.out.println("140 rubles is Test result : " + passedDollar);
     }
-
 }
