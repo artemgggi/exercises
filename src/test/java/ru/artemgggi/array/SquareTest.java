@@ -1,7 +1,8 @@
-package ru.artemgggi.Array;
+package ru.artemgggi.array;
 
 import org.junit.Assert;
 import org.junit.Test;
+import ru.artemgggi.array.Square;
 
 import static org.junit.Assert.*;
 
