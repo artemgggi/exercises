@@ -1,4 +1,4 @@
-package ru.artemgggi.Array;
+package ru.artemgggi.array;
 
 public class Square {
 	public static int[] calculate(int bound) {
