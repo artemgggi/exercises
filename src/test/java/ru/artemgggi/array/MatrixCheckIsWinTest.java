@@ -44,6 +44,5 @@ public class MatrixCheckIsWinTest {
 		};
 		boolean result = MatrixCheck.isWin(input);
 		Assert.assertTrue(result);
-
-
+	}
 }
