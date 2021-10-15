@@ -7,7 +7,6 @@ public class Defragment {
 				if (array[j - 1] == null) {
 					array[j - 1] = array[j];
 					array[j] = null;
-
 					System.out.println();
 				}
 			}
