@@ -1,4 +1,4 @@
-package ru.artemgggi.Array;
+package ru.artemgggi.array;
 
 public class ArrayLoop {
 	public static void main(String[] args) {
